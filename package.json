@@ -1,0 +1,21 @@
+{
+  "name": "newman-tag",
+  "version": "0.0.1",
+  "description": "cucumber like tag filter for postman collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "newman",
+    "postman",
+    "api",
+    "testing"
+  ],
+  "author": "Alexander Galichenko <alexandr.galichenko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "cucumber-tag-expressions": "^2.0.3"
+  }
+}
